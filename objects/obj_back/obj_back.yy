@@ -28,14 +28,14 @@
   ],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"my_font","path":"objects/buutton_parent/buutton_parent.yy",},"objectId":{"name":"buutton_parent","path":"objects/buutton_parent/buutton_parent.yy",},"value":"fnt_s","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"my_font","path":"objects/buutton_parent/buutton_parent.yy",},"objectId":{"name":"buutton_parent","path":"objects/buutton_parent/buutton_parent.yy",},"value":"fnt_L","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "buttons",
     "path": "folders/buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_start",
+  "name": "obj_back",
   "tags": [],
   "resourceType": "GMObject",
 }

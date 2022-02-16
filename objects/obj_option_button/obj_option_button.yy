@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_button_mask",
-    "path": "sprites/spr_button_mask/spr_button_mask.yy",
+    "name": "spr_button_mask_large",
+    "path": "sprites/spr_button_mask_large/spr_button_mask_large.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,20 +22,23 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [],
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":300.0,"y":0.0,},
+    {"x":300.0,"y":60.0,},
+    {"x":0.0,"y":60.0,},
+  ],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
-  "overriddenProperties": [
-    {"propertyId":{"name":"my_font","path":"objects/buutton_parent/buutton_parent.yy",},"objectId":{"name":"buutton_parent","path":"objects/buutton_parent/buutton_parent.yy",},"value":"fnt_s","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "buttons",
     "path": "folders/buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_start",
+  "name": "obj_option_button",
   "tags": [],
   "resourceType": "GMObject",
 }

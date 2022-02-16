@@ -35,7 +35,7 @@
     "path": "folders/buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_start",
+  "name": "obj_back",
   "tags": [],
   "resourceType": "GMObject",
 }

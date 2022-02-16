@@ -27,9 +27,7 @@
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
-  "overriddenProperties": [
-    {"propertyId":{"name":"my_font","path":"objects/buutton_parent/buutton_parent.yy",},"objectId":{"name":"buutton_parent","path":"objects/buutton_parent/buutton_parent.yy",},"value":"fnt_s","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "buttons",
     "path": "folders/buttons.yy",
